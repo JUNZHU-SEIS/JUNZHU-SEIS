@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yao Jiayuan, a postdoc of Seismology.
+I'm Jun ZHU, a candidate master of Geophysics.
 
 ### Open Source Software
 
