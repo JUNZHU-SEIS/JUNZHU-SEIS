@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jun Zhu, a PhD of Geophysics.
+I'm Jun Zhu, a PhD student of Geophysics.
 
 ### Open Source Software
 
